@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Azure Web App — Terraform Demo
 **Author:** Ramalakshmi Mani (Rama) | Senior Cloud & Platform Engineer @ BMW TechWorks
 
@@ -107,3 +108,7 @@ As a Senior Cloud & Platform Engineer actively exploring opportunities in the Ne
 
 - 💼 [LinkedIn](https://linkedin.com/in/ramalakshmim)
 - 📧 ramalakshmi0505@outlook.com
+=======
+# azure-webapp-terraform
+Azure Web Application using Terraform
+>>>>>>> 0215336106c18bede2ce9b71d27a87af3196668e
