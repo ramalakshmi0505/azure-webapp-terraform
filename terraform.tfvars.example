@@ -1,0 +1,11 @@
+###############################################################
+# terraform.tfvars — Customize your values here
+# Copy this to terraform.tfvars and fill in your values
+###############################################################
+
+project_name     = "rama-azure-demo"
+environment      = "dev"
+location         = "westeurope"
+github_repo_url  = "https://github.com/YOUR_USERNAME/YOUR_REPO"
+github_branch    = "main"
+app_secret_value = "my-super-secret-demo-value"
