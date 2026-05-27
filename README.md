@@ -95,7 +95,7 @@ terraform destroy
 
 ## 🌍 Why This Project?
 
-As a Senior Cloud & Platform Engineer actively exploring opportunities in the Netherlands, this project demonstrates:
+ this project demonstrates:
 - Real-world Terraform module structure
 - Azure best practices (Key Vault, Managed Identity, VNet)
 - GitHub-connected CI/CD deployment
@@ -107,7 +107,7 @@ As a Senior Cloud & Platform Engineer actively exploring opportunities in the Ne
 
 - 💼 [LinkedIn](https://linkedin.com/in/ramalakshmim)
 - 📧 ramalakshmi0505@outlook.com
-=======
+
 # azure-webapp-terraform
 Azure Web Application using Terraform
 
