@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # 🚀 Azure Web App — Terraform Demo
 **Author:** Ramalakshmi Mani (Rama) | Senior Cloud & Platform Engineer @ BMW TechWorks
 
-A hands-on Azure infrastructure demo using Terraform — showcasing real-world cloud engineering skills for portfolio and job applications in the Netherlands.
+A hands-on Azure infrastructure demo using Terraform showcasing real-world cloud engineering skills for portfolio.
 
 ---
 
@@ -25,7 +24,7 @@ A hands-on Azure infrastructure demo using Terraform — showcasing real-world c
 
 ```
 azure-webapp-terraform/
-├── main.tf                          # Root module — wires everything together
+├── main.tf                          # Root module - wires everything together
 ├── variables.tf                     # Input variables
 ├── locals.tf                        # Common tags and locals
 ├── outputs.tf                       # Output values
@@ -111,4 +110,4 @@ As a Senior Cloud & Platform Engineer actively exploring opportunities in the Ne
 =======
 # azure-webapp-terraform
 Azure Web Application using Terraform
->>>>>>> 0215336106c18bede2ce9b71d27a87af3196668e
+
