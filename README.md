@@ -1,11 +1,11 @@
-# 🚀 Azure Web App — Terraform Demo
+# Azure Web App Terraform Demo
 **Author:** Ramalakshmi Mani (Rama) | Senior Cloud & Platform Engineer @ BMW TechWorks
 
 A hands-on Azure infrastructure demo using Terraform showcasing real-world cloud engineering skills for portfolio.
 
 ---
 
-## 🏗️ What This Deploys
+##  What This Deploys
 
 | Resource | Purpose |
 |----------|---------|
